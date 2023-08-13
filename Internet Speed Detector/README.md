@@ -4,4 +4,4 @@ In this project, I am gonna show you how to code a Internet Speed Detecting Test
 
 # Screenshot
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
